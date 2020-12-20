@@ -1,0 +1,8 @@
+name: SMPCore
+version: ${project.version}
+main: wangjasonx.smpcore.SMPCore
+api-version: 1.13
+commands:
+  smp:
+    description: The main SMPCore command
+    usage: /smp
